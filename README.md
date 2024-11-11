@@ -1,0 +1,1 @@
+This project showcases a rotating 3D image gallery effect, where multiple images rotate around a central axis. It uses HTML, CSS, and JavaScript to create an interactive and visually engaging display of images, perfect for portfolio displays or multimedia presentations.
